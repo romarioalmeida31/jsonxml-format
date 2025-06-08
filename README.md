@@ -20,4 +20,4 @@ Um simples formatador de JSON feito em React, com suporte a modo claro/escuro, u
 
 1. Instale as dependências:
    ```bash
-   npm install
+   npm install --legacy-peer-deps
